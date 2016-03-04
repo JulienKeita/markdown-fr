@@ -8,7 +8,7 @@ Voici un exemple :
 Ceci est un bloc de code 
 ```
 
-Afin de créer un bloc de code en Markdown, il suffit d'identer chaque ligne du bloc avec au moins 4 espaces ou une tabulation.
+In order to create a code block in Markdown, you have to identify a code line with at least 4 spaces or a tab.
 
 Par exemple :
 
